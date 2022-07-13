@@ -16,6 +16,7 @@ Full Stack app built using NextJS and Typescript.
 
 Todos given more time:
 
+- Add sort by first name
 - Write unit tests
 - Break index.tsx into smaller components.
 - Improve styling
